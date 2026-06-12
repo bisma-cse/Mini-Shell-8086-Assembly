@@ -62,6 +62,15 @@ mini shell.asm
 3. Assemble and Run the program.
 4. Enter commands through the shell interface.
 
+## Screenshots
+
+# welcome screen
+<img width="647" height="364" alt="image" src="https://github.com/user-attachments/assets/1cc98cb5-22c0-43a4-9f84-2dbce4647c7c" />
+#menu
+<img width="652" height="370" alt="image" src="https://github.com/user-attachments/assets/5df26713-acae-46dd-a0c8-564c67adfe29" />
+
+
+
 ## Future Improvements
 
 * File handling commands
